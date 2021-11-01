@@ -24,3 +24,9 @@ Extras:
 Utilize as cores para identificar os continentes.
 Utilize o parametro hover_name para identificar cada país.
 Coloque a popolução como tamanho de cada marca. O paramentro size_max vai te ajudar.
+
+
+![giphy](https://github.com/Giovanacarmazio/Visualizacao_Dados_Graficos/blob/f96e642f566c08a05769d55e06b7480c32dda967/newplot%20(1).png)
+![giphy](https://github.com/Giovanacarmazio/Visualizacao_Dados_Graficos/blob/f96e642f566c08a05769d55e06b7480c32dda967/newplot%20(3).png)
+![giphy](https://github.com/Giovanacarmazio/Visualizacao_Dados_Graficos/blob/f96e642f566c08a05769d55e06b7480c32dda967/newplot%20(2).png)
+![giphy](https://github.com/Giovanacarmazio/Visualizacao_Dados_Graficos/blob/f96e642f566c08a05769d55e06b7480c32dda967/newplot.png)
