@@ -1,32 +1,42 @@
-# Business Intelligence & Visualização de Dados
+```markdown
+# DataViz Insights
 
+Este repositório contém o projeto **DataViz Insights**, focado em demonstrar como criar visualizações eficazes para diversos conjuntos de dados, utilizando ferramentas e bibliotecas populares de visualização.
 
-## Exercicio 1 - Gráfico de Linhas.
-Construa um gráfico de linhas com a evolução da expectativa(lifeExp) de vida ao longo dos anos filtrando o país "Brazil".
+## Descrição do Projeto
 
-## Exercicio 1.1 - Gárfico de Linha formatado.
-Adicione um titulo ao gráfico e modifique os titulos dos eixos para nomes em portugês.
+O objetivo é fornecer exemplos práticos de como manipular dados e criar gráficos interativos, abordando dashboards, relatórios visuais e gráficos exploratórios para análise de dados, ciência de dados e business intelligence.
 
-## Exercicio 2 - Gráfico de Barras.
-Construa um gráfico de barras com a expectativa de vida dos paises do continente americano em 2007.
+## Tecnologias Utilizadas
 
-Formate o gráfico com titulos.
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
+- **Plotly**
 
-## Exercicio 3 - Gráfico de Linhas com várias séries.
-Construa um gráfico de linhas com a expectativa de vida dos paises Brazil, Cananda e Chile ao longo do tempo.
-Utilize as cores para diferencias os países.
+## Estrutura do Repositório
 
-## Exercicio 4 - Gráfico de dispersão (scatter).
-Construa um gráfico de dispersão com a expectativa de vida vs o GDP percapita (Renda Percapta) filtrando apenas o anos de 2007.
+- `notebooks/`: Notebooks Jupyter com exemplos práticos.
+- `data/`: Conjuntos de dados utilizados.
+- `scripts/`: Scripts para gerar gráficos.
+- `docs/`: Documentação detalhada.
 
-Extras:
+## Como Executar
 
-Utilize as cores para identificar os continentes.
-Utilize o parametro hover_name para identificar cada país.
-Coloque a popolução como tamanho de cada marca. O paramentro size_max vai te ajudar.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Giovanacarmazio/Visualizacao_Dados_Graficos.git
+   ```
 
+2. Execute os notebooks:
+   ```bash
+   jupyter notebook
+   ```
 
-![giphy](https://github.com/Giovanacarmazio/Visualizacao_Dados_Graficos/blob/f96e642f566c08a05769d55e06b7480c32dda967/newplot%20(1).png)
-![giphy](https://github.com/Giovanacarmazio/Visualizacao_Dados_Graficos/blob/f96e642f566c08a05769d55e06b7480c32dda967/newplot%20(3).png)
-![giphy](https://github.com/Giovanacarmazio/Visualizacao_Dados_Graficos/blob/f96e642f566c08a05769d55e06b7480c32dda967/newplot%20(2).png)
-![giphy](https://github.com/Giovanacarmazio/Visualizacao_Dados_Graficos/blob/f96e642f566c08a05769d55e06b7480c32dda967/newplot.png)
+3. Explore os scripts para gerar gráficos.
+
+## Contribuições
+
+Contribuições são bem-vindas! Abra *issues* ou envie *pull requests*.
+```
